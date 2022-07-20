@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bootstrap-tagsinput1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/management/assets/libs/bootstrap-tagsinput/bootstrap-tagsinput.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

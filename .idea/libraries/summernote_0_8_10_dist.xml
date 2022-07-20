@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="summernote-0.8.10-dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/management/assets/libs/summernote/summernote-0.8.10-dist.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
